@@ -38,3 +38,7 @@ To compare our result, we created also a simple basic classifier model which doe
 
 - Ali Gharaee (ali-gharaee)
 - Alireza Keshavarzi (isohrab) 
+
+## Acknowledgement
+
+Many thanks to [JayParks](https://github.com/JayParks). I'm not use only his seq2seq model, but also I learn a lot from his [code and comments](https://github.com/JayParks/tf-seq2seq/blob/master/seq2seq_model.py)
