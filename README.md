@@ -34,11 +34,6 @@ To compare our result, we created also a simple basic classifier model which doe
 | 20 newsgroups       | 76.28%  | 73.84%  | 76.15%   |
 
 
-## Project members
-
-- Ali Gharaee (ali-gharaee)
-- Alireza Keshavarzi (isohrab) 
-
 ## Acknowledgement
 
 Many thanks to [JayParks](https://github.com/JayParks). I'm not use only his seq2seq model, but also I learn a lot from his [code and comments](https://github.com/JayParks/tf-seq2seq/blob/master/seq2seq_model.py)
