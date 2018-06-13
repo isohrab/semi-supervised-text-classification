@@ -33,6 +33,7 @@ To compare our result, we created also a simple basic classifier model which doe
 | Large Movie review  | 99.96%  | 99.82%  | 99.89%   |
 | 20 newsgroups       | 76.28%  | 73.84%  | 76.15%   |
 
+ __Note__: The comparison is unfair. I used Glove 42B, Fasttext 16B and Lexvec 7B. [issue#1](https://github.com/isohrab/semi-supervised-text-classification/issues/1)
 
 ## Acknowledgement
 
