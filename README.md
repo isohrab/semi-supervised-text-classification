@@ -24,13 +24,13 @@ To compare our result, we created also a simple basic classifier model which doe
 #### Basic model results
 | dataset             |  Glove  |  Lexvec | FastText |
 |----------           |:-------:|:-------:|:--------:|
-| Large Movie review  | 99.92%  | 99.78%  | 99.80%   |
+| Large Movie review  | ----  | ----  | ----   |
 | 20 newsgroups       | 73.35%  | 71.19%  | 72.65%   |
 
 #### Model with Encoder part
 | dataset             |  Glove  |  Lexvec | FastText |
 |----------           |:-------:|:-------:|:--------:|
-| Large Movie review  | 99.96%  | 99.82%  | 99.89%   |
+| Large Movie review  | ----  | ----  | ----   |
 | 20 newsgroups       | 76.28%  | 73.84%  | 76.15%   |
 
  __Note__: The comparison is unfair. I used Glove 42B, Fasttext 16B and Lexvec 7B. [issue#1](https://github.com/isohrab/semi-supervised-text-classification/issues/1)
